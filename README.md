@@ -46,7 +46,7 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrsingh05&show_icons=true&locale=en&layout=compact" alt="harshkrsingh05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrsingh05&show_icons=true&locale=en&layout=compact" alt="BasilSkar" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkrsingh05&" alt="harshkrsingh05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkrsingh05&" alt="BasilSkar" /></p>
