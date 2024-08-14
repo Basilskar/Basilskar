@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React Js,tailwind css.**
 
-- 👨‍💻 All of my projects are available at [harshkportfolio.onrender.com](https://harshkportfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [harshkportfolio.onrender.com](https://basilskaria.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **harshkumarsingh005@gmail.com**
+- 📫 How to reach me **basilskar1960@@gmail.com**
 
 - ⚡ Fun fact **I am always ready to meet.**
 
