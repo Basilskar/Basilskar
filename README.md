@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Basil Skaria</h1>
-<h3 align="center">A Frontend developer from India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Basilskar&label=Profile%20views&color=0e75b6&style=flat" alt="basilskar" /></p>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkrsingh05" theme=dracula alt="harshkrsingh05" /></a> </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkrsingh05&theme=onedark" alt="harshkrsingh05" /></a> </p>
+<h3 align="center">A Frontend Developer from India.</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Basilskar&label=Profile%20views&color=0e75b6&style=flat" alt="Basilskar" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Basilskar&theme=onedark" alt="Basilskar" />
+  </a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🌱 I’m currently learning **React Js,tailwind css.**
 
