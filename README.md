@@ -28,11 +28,10 @@
   </a>
 
   <a href="https://www.codechef.com/users/basil_19711" target="_blank">
-    <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" 
+    <img align="center" src="https://static.codechef.com/sites/all/themes/abessive/logo.svg" 
          alt="CodeChef Profile" height="30" width="40" />
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -57,7 +56,8 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrsingh05&show_icons=true&locale=en&layout=compact" alt="BasilSkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Basilskar&show_icons=true&locale=en&layout=compact" alt="Basilskar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Basilskar&" alt="Basilskar" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkrsingh05&" alt="BasilSkar" /></p>
