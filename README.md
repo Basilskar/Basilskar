@@ -28,10 +28,11 @@
   </a>
 
   <a href="https://www.codechef.com/users/basil_19711" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Chef_cooking_logo.svg" 
          alt="CodeChef Profile" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
